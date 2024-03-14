@@ -1,1 +1,1 @@
-# 0x00. Python - Variable Annotations #
+This repository explores advanced backend concepts in Python
