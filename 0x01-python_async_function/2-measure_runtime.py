@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""Contains function to measure the runtime of the wait_ function"""
 
 import asyncio
 import time
